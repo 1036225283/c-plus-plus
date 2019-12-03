@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "show.h": "c",
+        "iostream": "cpp",
+        "string": "cpp",
+        "iosfwd": "cpp",
+        "ostream": "cpp"
+    }
+}
