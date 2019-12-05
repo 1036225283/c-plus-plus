@@ -8,7 +8,7 @@
             "args": [
                 "-std=c++17",
                 "-stdlib=libc++",
-                "main.cpp",
+                "main/main.cpp",
                 "-o",
                 "main.sh",
                 "--debug"

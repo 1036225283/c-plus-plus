@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-#include "user/User.cpp"
+#include "../user/User.cpp"
 
 using namespace std;
 
